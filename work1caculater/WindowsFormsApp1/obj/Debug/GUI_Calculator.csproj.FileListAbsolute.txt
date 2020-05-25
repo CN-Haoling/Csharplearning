@@ -1,0 +1,10 @@
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI_Calculator.csprojAssemblyReference.cache
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI_Calculator.csproj.GenerateResource.cache
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI_Calculator.csproj.CoreCompileInputs.cache
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\cppcodes\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

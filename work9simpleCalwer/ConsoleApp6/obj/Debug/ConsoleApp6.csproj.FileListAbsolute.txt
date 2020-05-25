@@ -1,0 +1,14 @@
+E:\cppcodes\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+E:\cppcodes\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\cppcodes\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\cppcodes\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\cppcodes\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\cppcodes\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\cppcodes\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\C#work\learncs\simpleCalwer\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
