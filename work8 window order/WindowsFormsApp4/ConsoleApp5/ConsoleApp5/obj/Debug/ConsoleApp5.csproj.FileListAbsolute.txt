@@ -1,0 +1,14 @@
+E:\cppcodes\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\cppcodes\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\cppcodes\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\cppcodes\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\cppcodes\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\cppcodes\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+E:\cppcodes\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\79133\source\repos\WindowsFormsApp4\WindowsFormsApp4\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
